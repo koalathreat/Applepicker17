@@ -157,6 +157,17 @@ Prefab:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114929333949623772, guid: 2b6fa5cda794fe4479a67f4111b993ee,
+        type: 2}
+      propertyPath: chanceToChangeDirections
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 114929333949623772, guid: 2b6fa5cda794fe4479a67f4111b993ee,
+        type: 2}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 1174191098562404, guid: 1df5b9cb44bcb3440ac009706fc06438,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2b6fa5cda794fe4479a67f4111b993ee, type: 2}
   m_IsPrefabParent: 0
