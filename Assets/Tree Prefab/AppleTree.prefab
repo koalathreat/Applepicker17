@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 33068264437927236}
   - component: {fileID: 136952002336910412}
   - component: {fileID: 23371049588853998}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Trunk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4499828339353338}
   - component: {fileID: 114929333949623772}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: AppleTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 33322108825190022}
   - component: {fileID: 135793878096618176}
   - component: {fileID: 23411497392640560}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -197,6 +197,7 @@ MonoBehaviour:
   speed: 1
   leftAndRightEdge: 10
   chanceToChangeDirections: 0.1
+  secondsBetweenAppleDrops: 1
 --- !u!135 &135793878096618176
 SphereCollider:
   m_ObjectHideFlags: 1
